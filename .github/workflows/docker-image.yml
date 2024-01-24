@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ceobecanteen/multi-interface-poc :latest
+          tags: ceobecanteen/multi-interface-poc:latest
